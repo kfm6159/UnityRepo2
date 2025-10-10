@@ -1,6 +1,6 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/kfm61/Documents/GitHub/UnityRepo/BookAdventure/Packages/manifest.json
+    m_FilePath: C:/Users/kfm61/Documents/GitHub/UnityRepo2/BookAdventure/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -8,7 +8,7 @@ m_ProjectFiles:
       ticks: 638940203070669486
     m_Hash: 3637990628
   m_LockFileStatus:
-    m_FilePath: C:/Users/kfm61/Documents/GitHub/UnityRepo/BookAdventure/Packages/packages-lock.json
+    m_FilePath: C:/Users/kfm61/Documents/GitHub/UnityRepo2/BookAdventure/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -19,7 +19,7 @@ m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/kfm61/Documents/GitHub/UnityRepo/BookAdventure/Packages
+m_ProjectPath: C:/Users/kfm61/Documents/GitHub/UnityRepo2/BookAdventure/Packages
 m_EditorVersion: 6000.0.57f1 (b7b9860b7bbd)
 m_ResolvedPackages:
 - packageId: com.unity.ai.navigation@2.0.8
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.8
   source: 1
-  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo\BookAdventure\Library\PackageCache\com.unity.ai.navigation@eb5635ad590d
+  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo2\BookAdventure\Library\PackageCache\com.unity.ai.navigation@eb5635ad590d
   assetPath: Packages/com.unity.ai.navigation
   name: com.unity.ai.navigation
   displayName: AI Navigation
@@ -151,7 +151,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.9.3
   source: 1
-  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo\BookAdventure\Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad
+  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo2\BookAdventure\Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Unity Version Control
@@ -327,7 +327,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.36
   source: 1
-  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo\BookAdventure\Library\PackageCache\com.unity.ide.rider@4d374c7eb6db
+  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo2\BookAdventure\Library\PackageCache\com.unity.ide.rider@4d374c7eb6db
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -459,7 +459,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.23
   source: 1
-  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo\BookAdventure\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
+  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo2\BookAdventure\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -500,9 +500,11 @@ m_ResolvedPackages:
     - 2.0.21
     - 2.0.22
     - 2.0.23
+    - 2.0.25
     compatible:
     - 2.0.23
-    recommended: 2.0.23
+    - 2.0.25
+    recommended: 2.0.25
     deprecated: []
   dependencies:
   - name: com.unity.test-framework
@@ -574,7 +576,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.14.2
   source: 1
-  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo\BookAdventure\Library\PackageCache\com.unity.inputsystem@be6c4fd0abf5
+  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo2\BookAdventure\Library\PackageCache\com.unity.inputsystem@be6c4fd0abf5
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -646,8 +648,10 @@ m_ResolvedPackages:
     - 1.14.0
     - 1.14.1
     - 1.14.2
+    - 1.15.0
     compatible:
     - 1.14.2
+    - 1.15.0
     recommended: 1.14.2
     deprecated: []
   dependencies:
@@ -729,7 +733,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo\BookAdventure\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
+  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo2\BookAdventure\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -822,7 +826,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 17.0.4
   source: 2
-  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo\BookAdventure\Library\PackageCache\com.unity.render-pipelines.universal@ba18377e2205
+  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo2\BookAdventure\Library\PackageCache\com.unity.render-pipelines.universal@ba18377e2205
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal Render Pipeline
@@ -948,7 +952,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.5.1
   source: 2
-  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo\BookAdventure\Library\PackageCache\com.unity.test-framework@16d3eb9e8c28
+  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo2\BookAdventure\Library\PackageCache\com.unity.test-framework@16d3eb9e8c28
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1037,7 +1041,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.9
   source: 1
-  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo\BookAdventure\Library\PackageCache\com.unity.timeline@6b9e48457ddb
+  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo2\BookAdventure\Library\PackageCache\com.unity.timeline@6b9e48457ddb
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1234,7 +1238,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo\BookAdventure\Library\PackageCache\com.unity.ugui@58f0e62c6dfa
+  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo2\BookAdventure\Library\PackageCache\com.unity.ugui@58f0e62c6dfa
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1329,7 +1333,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.9.7
   source: 1
-  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo\BookAdventure\Library\PackageCache\com.unity.visualscripting@6279e2b7c485
+  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo2\BookAdventure\Library\PackageCache\com.unity.visualscripting@6279e2b7c485
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -4188,7 +4192,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.5
   source: 2
-  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo\BookAdventure\Library\PackageCache\com.unity.ext.nunit@031a54704bff
+  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo2\BookAdventure\Library\PackageCache\com.unity.ext.nunit@031a54704bff
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -4267,7 +4271,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.4
   source: 2
-  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo\BookAdventure\Library\PackageCache\com.unity.render-pipelines.core@d55f35a46257
+  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo2\BookAdventure\Library\PackageCache\com.unity.render-pipelines.core@d55f35a46257
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Scriptable Render Pipeline Core
@@ -4392,7 +4396,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.4
   source: 2
-  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo\BookAdventure\Library\PackageCache\com.unity.shadergraph@bbc2145cfdb2
+  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo2\BookAdventure\Library\PackageCache\com.unity.shadergraph@bbc2145cfdb2
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -4507,7 +4511,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.3
   source: 2
-  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo\BookAdventure\Library\PackageCache\com.unity.render-pipelines.universal-config@dd206bf35d04
+  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo2\BookAdventure\Library\PackageCache\com.unity.render-pipelines.universal-config@dd206bf35d04
   assetPath: Packages/com.unity.render-pipelines.universal-config
   name: com.unity.render-pipelines.universal-config
   displayName: Universal Render Pipeline Config
@@ -4614,7 +4618,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.9.3
   source: 1
-  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo\BookAdventure\Library\PackageCache\com.unity.searcher@1e17ce91558d
+  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo2\BookAdventure\Library\PackageCache\com.unity.searcher@1e17ce91558d
   assetPath: Packages/com.unity.searcher
   name: com.unity.searcher
   displayName: Searcher
@@ -4710,7 +4714,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.8.24
   source: 1
-  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo\BookAdventure\Library\PackageCache\com.unity.burst@f7a407abf4d5
+  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo2\BookAdventure\Library\PackageCache\com.unity.burst@f7a407abf4d5
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -4944,7 +4948,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.3.2
   source: 1
-  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo\BookAdventure\Library\PackageCache\com.unity.mathematics@8017b507cc74
+  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo2\BookAdventure\Library\PackageCache\com.unity.mathematics@8017b507cc74
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -4978,9 +4982,11 @@ m_ResolvedPackages:
     - 1.2.6
     - 1.3.1
     - 1.3.2
+    - 1.3.3
     compatible:
     - 1.3.2
-    recommended: 1.3.2
+    - 1.3.3
+    recommended: 1.3.3
     deprecated: []
   dependencies: []
   resolvedDependencies: []
@@ -5042,7 +5048,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.5.1
   source: 1
-  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo\BookAdventure\Library\PackageCache\com.unity.collections@56bff8827a7e
+  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo2\BookAdventure\Library\PackageCache\com.unity.collections@56bff8827a7e
   assetPath: Packages/com.unity.collections
   name: com.unity.collections
   displayName: Collections
@@ -5134,6 +5140,7 @@ m_ResolvedPackages:
     - 2.6.0-exp.2
     - 2.6.0-pre.3
     - 2.6.0-pre.4
+    - 2.6.2
     compatible:
     - 2.5.1
     - 2.5.2
@@ -5142,6 +5149,7 @@ m_ResolvedPackages:
     - 2.6.0-exp.2
     - 2.6.0-pre.3
     - 2.6.0-pre.4
+    - 2.6.2
     recommended: 2.5.7
     deprecated: []
   dependencies:
@@ -5230,7 +5238,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.1
   source: 2
-  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo\BookAdventure\Library\PackageCache\com.unity.rendering.light-transport@9bd588f963c0
+  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo2\BookAdventure\Library\PackageCache\com.unity.rendering.light-transport@9bd588f963c0
   assetPath: Packages/com.unity.rendering.light-transport
   name: com.unity.rendering.light-transport
   displayName: Unity Light Transport Library
@@ -5335,7 +5343,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.11.4
   source: 1
-  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo\BookAdventure\Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f
+  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo2\BookAdventure\Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f
   assetPath: Packages/com.unity.nuget.mono-cecil
   name: com.unity.nuget.mono-cecil
   displayName: Mono Cecil
@@ -5365,10 +5373,12 @@ m_ResolvedPackages:
     - 1.10.2
     - 1.11.4
     - 1.11.5
+    - 1.11.6
     compatible:
     - 1.11.4
     - 1.11.5
-    recommended: 1.11.5
+    - 1.11.6
+    recommended: 1.11.6
     deprecated: []
   dependencies: []
   resolvedDependencies: []
@@ -5426,7 +5436,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.1.0
   source: 1
-  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo\BookAdventure\Library\PackageCache\com.unity.test-framework.performance@92d1d09a72ed
+  resolvedPath: C:\Users\kfm61\Documents\GitHub\UnityRepo2\BookAdventure\Library\PackageCache\com.unity.test-framework.performance@92d1d09a72ed
   assetPath: Packages/com.unity.test-framework.performance
   name: com.unity.test-framework.performance
   displayName: Performance testing API
